@@ -1,5 +1,5 @@
 //Find position of the only set bit
-
+//
 #include<stdio.h>
 
 int findPosition(int n) {
