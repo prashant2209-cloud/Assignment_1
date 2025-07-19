@@ -11,7 +11,7 @@ int findPosition(int n) {
     }
     return position;
 }
-
+//
 int main() {
     int n = 16;
     int pos = findPosition(n);
