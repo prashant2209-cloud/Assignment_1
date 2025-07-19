@@ -1,5 +1,5 @@
 //Power set
-
+   
 #include <stdio.h>
 #include <math.h>
 

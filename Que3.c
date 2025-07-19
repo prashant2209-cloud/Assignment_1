@@ -1,5 +1,5 @@
 //Program to find whether a number is power of two
-//hi
+
 #include<stdio.h>
 
 int isPowerOfTwo(int n) {

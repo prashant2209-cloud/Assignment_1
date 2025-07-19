@@ -1,5 +1,5 @@
 //Count total set bits in all numbers from 1 to n
-
+  
 #include <stdio.h>
 
 int countSetBits(int n) {
